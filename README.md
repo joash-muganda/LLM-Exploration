@@ -27,16 +27,6 @@ The repository is organized into the following directories:
   - [Link to Diffy.ai Demo 1](https://drive.google.com/file/d/1yR8ifnPKTl0xkfs0Ti-sDOqPDhuoNurm/view?usp=sharing)
   - [Link to Diffy.ai Demo 2](https://drive.google.com/file/d/1AdX1jEAjxcFagpVkw2ojSlePvFzsGg9a/view?usp=sharing)
 
-## Getting Started
-
-To get started with the experiments in this repository, navigate to the relevant folder based on the task or tool you want to explore. Each folder contains a `README.md` file with detailed instructions on how to set up and run the notebooks.
-
-### Prerequisites
-
-- **Google Colab**: For executing notebooks in the cloud with GPU/TPU support.
-- **Hugging Face Account**: Some tasks require access to models hosted on the Hugging Face Model Hub. Make sure to have a valid Hugging Face token.
-- **Python Packages**: Install necessary packages listed in each subdirectory's `README.md`.
-
 ## Usage
 
 1. **LLama-Factory/**: Start with the Colab notebooks to explore various training methods for LLaMa models.
@@ -44,9 +34,6 @@ To get started with the experiments in this repository, navigate to the relevant
 3. **Ollama/**: Experiment with running LLMs locally and on Google Colab using Ollama.
 4. **Diffy.ai/**: Follow the notebooks to learn about the Dify.ai workflow capabilities.
 
-## Contributing
-
-Feel free to contribute to this repository by submitting pull requests or creating issues for any bugs or feature suggestions.
 
 ## License
 
