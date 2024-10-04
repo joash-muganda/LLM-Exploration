@@ -27,14 +27,6 @@ The repository is organized into the following directories:
   - [Link to Diffy.ai Demo 1](https://drive.google.com/file/d/1yR8ifnPKTl0xkfs0Ti-sDOqPDhuoNurm/view?usp=sharing)
   - [Link to Diffy.ai Demo 2](https://drive.google.com/file/d/1AdX1jEAjxcFagpVkw2ojSlePvFzsGg9a/view?usp=sharing)
 
-## Usage
-
-1. **LLama-Factory/**: Start with the Colab notebooks to explore various training methods for LLaMa models.
-2. **LM-Studio/**: Use the provided notebooks to test out the features of the LM-Studio.
-3. **Ollama/**: Experiment with running LLMs locally and on Google Colab using Ollama.
-4. **Diffy.ai/**: Follow the notebooks to learn about the Dify.ai workflow capabilities.
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
